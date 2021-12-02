@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3.1%28operator,power%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3.2%28arithmetic_operators%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3.4(sizeof, rest, conditional).cpp">
+    <ClCompile Include="5-1%28if%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

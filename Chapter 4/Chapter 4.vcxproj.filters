@@ -15,13 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3.1%28operator,power%29.cpp">
+    <ClCompile Include="4.1(local_variable, scope, duration).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3.2%28arithmetic_operators%29.cpp">
+    <ClCompile Include="4.6%28std,string%28string,string%29%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3.4(sizeof, rest, conditional).cpp">
+    <ClCompile Include="4.7(enum).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4.6(std,string(int,string)).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4.8(enum_class).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
