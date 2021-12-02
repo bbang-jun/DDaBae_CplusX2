@@ -1,6 +1,9 @@
 #pragma once // 헤더 가드 - 전처리기
 
-int add(int a, int b);
+int add(int a, int b)
+{
+	return a + b;
+}
 
 /*
 * 헤더파일을 다른 폴더로 옮기고 싶을 때
