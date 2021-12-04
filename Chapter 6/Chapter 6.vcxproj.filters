@@ -15,10 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="5-1%28if%29.cpp">
+    <ClCompile Include="6.1(array1).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="5.9(random_numbers).cpp">
+    <ClCompile Include="6.5(n_array).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6.7(pointer).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6.7a(null_pointer).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
